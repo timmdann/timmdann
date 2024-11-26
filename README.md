@@ -21,6 +21,7 @@ Feel free to explore my repositories and connect with me!
 Don’t forget to give a star and follow!⭐
 
 ---
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/timmdann&title=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=timmdann&style=for-the-badge&color=blueviolet)
+
 
 
