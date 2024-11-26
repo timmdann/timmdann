@@ -17,11 +17,16 @@ As a student, I’m always eager to learn, take on new challenges, and contribut
 
 
 ---
-Feel free to explore my repositories and connect with me! 
+Feel free to explore my repositories and connect with me!
 Don’t forget to give a star and follow!⭐
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=timmdann&style=for-the-badge&color=blueviolet)
+
+---
+
+![GitHub Snake Animation](https://github.com/BaggerFast/BaggerFast/blob/main/assets/github-snake.svg)
+
 
 
 
