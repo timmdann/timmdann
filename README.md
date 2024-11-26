@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to my GitHub Profile!
 
-<!--
-**timmdann/timmdann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Daniil, a Computer Science student at Cracow University of Technology 📚🎓  
 
-Here are some ideas to get you started:
+I’m passionate about technology and innovation, with a strong interest in frontend development 🌐✨  
+Currently, I’m focusing on mastering **React**, **TypeScript**, and **Redux** to create modern, responsive, and dynamic web applications ⚛️📘🔄  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a student, I’m always eager to learn, take on new challenges, and contribute to exciting projects that help me grow 🚀💡  
+
+
+---
+
+## My Tech Stack 💻🔧 
+
+- **Languages:** JavaScript, HTML, CSS, C++  
+- **Tools & Platforms:** Git, Docker, Linux 
+
+
+---
+Feel free to explore my repositories and connect with me! 
+Don’t forget to give a star and follow!⭐
+
+
