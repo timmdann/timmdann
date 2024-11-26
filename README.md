@@ -20,4 +20,7 @@ As a student, I’m always eager to learn, take on new challenges, and contribut
 Feel free to explore my repositories and connect with me! 
 Don’t forget to give a star and follow!⭐
 
+---
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/timmdann&title=Profile%20Views)
+
 
