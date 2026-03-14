@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:9B30FF&height=200&section=header&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:9B30FF&height=120&section=header&animation=fadeIn" />
 </p>
 
 **Fullstack Developer | Blockchain Engineer**
 🎓 Cracow University of Technology
+
 Computer Science graduate, currently pursuing a Master's in Cybersecurity, passionate about Web3 and decentralized technologies.
 I bring hands-on experience in both blockchain engineering and fullstack development — from building modern web apps to working on distributed systems and blockchain infrastructure.
 Always exploring what's next in the Web3 space. 🚀
