@@ -4,11 +4,11 @@
 
 **Fullstack Developer | Blockchain Engineer**
 
-🎓 Cracow University of Technology
+Cracow University of Technology🎓
 
 Computer Science graduate, currently pursuing a Master's in Cybersecurity, passionate about Web3 and decentralized technologies.
-I bring hands-on experience in both blockchain engineering and fullstack development — from building modern web apps to working on distributed systems and blockchain infrastructure.
-Always exploring what's next in the Web3 space. 🚀
+I bring hands-on experience in both blockchain engineering and fullstack development - from building modern web apps to working on distributed systems and blockchain infrastructure.
+Always exploring what's next in the Web3 space
 
 ---
 
