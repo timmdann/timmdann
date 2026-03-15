@@ -12,7 +12,7 @@ Always exploring what's next in the Web3 space
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
